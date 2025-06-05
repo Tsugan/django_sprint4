@@ -1,1 +1,1 @@
-django_sprint4
+DJANGO_SPRINT4
